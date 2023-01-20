@@ -15,9 +15,10 @@ Write a function answer(s) which takes a string representing employees walking a
 
 ### Test cases
 
+```
 Inputs:
 
-s = ">——<"
+s = ">--<"
 Output:
 2
 
@@ -27,3 +28,4 @@ Inputs:
 s = "<<>><"
 Output:
 4
+```
