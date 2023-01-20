@@ -4,7 +4,7 @@ def solution(area):
     '''
     Problem Name: Solar Doomsday
     Author: Bharadhwaj C N (bharadhwaj10@gmail.com)
-    Statement: https://github.com/bharadhwaj/foobar/tree/main/level-1/question-1#readme
+    Statement: https://github.com/bharadhwaj/foobar/tree/main/level-1/1-solar-doomsday#readme
     '''
     panel_sizes = []
     while area > 0:
