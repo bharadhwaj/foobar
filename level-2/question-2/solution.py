@@ -1,4 +1,9 @@
 def solution(s):
+    '''
+    Problem Name: En Route Salute
+    Author: Bharadhwaj C N (bharadhwaj10@gmail.com)
+    Statement: https://github.com/bharadhwaj/foobar/tree/main/level-2/question-2#readme
+    '''
     people_walking_to_right = 0
     salute_count = 0
     for tile in s:
